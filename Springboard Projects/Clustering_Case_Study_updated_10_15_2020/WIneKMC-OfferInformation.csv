@@ -1,0 +1,33 @@
+Offer #,Campaign,Varietal,Minimum Qty (kg),Discount (%),Origin,Past Peak
+1,January,Malbec,72,56,France,False
+2,January,Pinot Noir,72,17,France,False
+3,February,Espumante,144,32,Oregon,True
+4,February,Champagne,72,48,France,True
+5,February,Cabernet Sauvignon,144,44,New Zealand,True
+6,March,Prosecco,144,86,Chile,False
+7,March,Prosecco,6,40,Australia,True
+8,March,Espumante,6,45,South Africa,False
+9,April,Chardonnay,144,57,Chile,False
+10,April,Prosecco,72,52,California,False
+11,May,Champagne,72,85,France,False
+12,May,Prosecco,72,83,Australia,False
+13,May,Merlot,6,43,Chile,False
+14,June,Merlot,72,64,Chile,False
+15,June,Cabernet Sauvignon,144,19,Italy,False
+16,June,Merlot,72,88,California,False
+17,July,Pinot Noir,12,47,Germany,False
+18,July,Espumante,6,50,Oregon,False
+19,July,Champagne,12,66,Germany,False
+20,August,Cabernet Sauvignon,72,82,Italy,False
+21,August,Champagne,12,50,California,False
+22,August,Champagne,72,63,France,False
+23,September,Chardonnay,144,39,South Africa,False
+24,September,Pinot Noir,6,34,Italy,False
+25,October,Cabernet Sauvignon,72,59,Oregon,True
+26,October,Pinot Noir,144,83,Australia,False
+27,October,Champagne,72,88,New Zealand,False
+28,November,Cabernet Sauvignon,12,56,France,True
+29,November,Pinot Grigio,6,87,France,False
+30,December,Malbec,6,54,France,False
+31,December,Champagne,72,89,France,False
+32,December,Cabernet Sauvignon,72,45,Germany,True
