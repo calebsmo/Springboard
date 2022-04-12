@@ -8,7 +8,7 @@ The project will involve:
 - Preparing and pre-processing for the Pdf
 - Model comparisons (pytesseract, pyocr, easyocr)
 - Image processing for check-box selected determination
-- Final Pipeline process with Streamlit.
+- [Streamlit Pipeline](https://github.com/calebsmo/ocr)
 
 My work will be mostly located in the jupyter notebooks, however I will also be linking a Streamlit app that will serve as an example for the complete pipeline.
 
