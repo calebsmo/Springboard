@@ -1,0 +1,21 @@
+This project has two main models that I am using for OCR are EasyOCR and PyOCR, each accessible via pip and worked well off-the-shelf.
+
+
+1. PyOCR
+
+PyOCR is a Python wrapper for two OCR engines, Tesseract and Cuneiform.
+
+2. EasyOCR
+
+EasyOCR is based on an amalgamation of repos and research. The models deep learning execution is based on Pytorch, which enables fast, 
+flexible, and efficient production (>> Pytorch.org). Detect execution for EasyOCR is accomplished using a pretrained model provided by CRAFT algorithm 
+from Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee (Clova AI Research, NAVER Corp.). 
+
+The recognition model is a CRNN (https://arxiv.org/abs/1507.05717) composed of 3 main components: 
+
+1. feature extraction (currently using Resnet) and VGG, 
+2. sequence labeling (LSTM) and decoding (CTC)
+3. training pipeline for recognition execution 
+
+The pipeline is a modified version of a four-stage Scene Text Recognition (STR) framework.
+
